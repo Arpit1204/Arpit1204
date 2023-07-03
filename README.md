@@ -4,16 +4,16 @@
 <br><br>I'm a passionate Software Developer who loves building amazing applications. As a second-year college student in Computer Science, I'm constantly learning and growing in the field of software development.<br><br>
 
 ## ⚡ About Me<br>
-<br>
 
--💻 Currently working on improving my problem-solving skills.<br>- 🌱 Always eager to learn new things and explore different technologies.<br>- ⚙️ Experienced in [List of technologies/tools you're familiar with].<br>- 🎓 Pursuing my degree in Computer Science.<br>- 🎯 Seeking opportunities to collaborate on interesting projects.<br><br>>
+
+<h3>-💻 Currently working on improving my problem-solving skills.<br>- 🌱 Always eager to learn new things and explore different technologies.<br>- ⚙️ Experienced in [List of technologies/tools you're familiar with].<br>- 🎓 Pursuing my degree in Computer Science.<br>- 🎯 Seeking opportunities to collaborate on interesting projects.<br><br></h3>
 
 ## 🚀 What I Do<br>
-<br>
+
 -💻 Develop high-quality software applications.<br>-📚 Learn and apply new technologies to enhance development processes.<br><br>
 
 ## 🌟 Interests<br>
-<br>
+
 In my free time, you'll find me:<br><br>
 - 🎵 Listening to music and discovering new artists.<br>- 🎥 Playing games and Watching movies.<br>- 📚 Expanding my knowledge.<br>- ✈️ Exploring new places.<br><br>- Feel free to reach out if you have any questions, want to collaborate, or just want to chat. I'm always happy to help and connect with fellow developers!<br><br>Let's create something amazing together! 🌟<br>
 
