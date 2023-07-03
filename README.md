@@ -6,11 +6,11 @@
 ## ⚡ About Me<br>
 <br>
 
--💻 Currently working on improving my problem-solving skills.<br>- 🌱 Always eager to learn new things and explore different technologies.<br>- ⚙️ Experienced in [List of technologies/tools you're familiar with].<br>- 🎓 Pursuing my degree in Computer Science.<br>- 🎯 Seeking opportunities to collaborate on interesting projects.<br>- 😄.<br><br>
+-💻 Currently working on improving my problem-solving skills.<br>- 🌱 Always eager to learn new things and explore different technologies.<br>- ⚙️ Experienced in [List of technologies/tools you're familiar with].<br>- 🎓 Pursuing my degree in Computer Science.<br>- 🎯 Seeking opportunities to collaborate on interesting projects.<br><br>>
 
 ## 🚀 What I Do<br>
 <br>
-Develop high-quality software applications.<br>- Learn and apply new technologies to enhance development processes.<br><br>
+-💻 Develop high-quality software applications.<br>-📚 Learn and apply new technologies to enhance development processes.<br><br>
 
 ## 🌟 Interests<br>
 <br>
