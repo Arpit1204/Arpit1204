@@ -4,12 +4,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arpitgulati) 
-[<img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-FF5151?style=for-the-badge&logo=About.me&logoColor=white" />][website]
-[<img align="left" src="https://img.shields.io/badge/Google_Play-FF5151?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/developer?id=aditya_bhardwaj)
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
 [<img align="left" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
-<a href="mailto:aadi.bbhardwaj@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:gulati.arpit0055@gmail.com?subject=Hello%20Arpit,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br>
 
 
