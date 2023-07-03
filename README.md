@@ -1,7 +1,7 @@
 
 # Hey there! I'm Arpit Gulati 👋
-<h2>
-<br>I'm a passionate Software Developer who loves building amazing applications. As a second-year college student in Computer Science, I'm constantly learning and growing in the field of software development.<br><br></h2>
+
+<br><h2>I'm a passionate Software Developer who loves building amazing applications. As a second-year college student in Computer Science, I'm constantly learning and growing in the field of software development.</h2><br><br>
 
 ## ⚡ About Me<br>
 
