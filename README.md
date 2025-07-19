@@ -14,6 +14,18 @@ const Arpit = {
   aiAndTools: ["OpenAI APIs", "Figma", "Postman", "VS Code"],
   currentlyLearning: ["Edge Functions", "Clean Architecture"],
   productivityStack: ["Zsh", "Raycast", "Notion"],
+  experience: [
+      {
+        company: "Tata 1mg",
+        role: "Fontend Developer",
+        since: "May 2025 - Present"
+      }
+      {
+        company: "Slippy.io / Yuzu.so",
+        role: "Full Stack Developer",
+        duration: "July 2023 - December 2024"
+      },
+    ],
   motto: "Build with vision, scale with intent."
 }
 ```
